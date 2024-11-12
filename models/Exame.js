@@ -1,4 +1,3 @@
-// models/Exame.js
 const mongoose = require('mongoose');
 
 const exameSchema = new mongoose.Schema({
